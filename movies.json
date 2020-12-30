@@ -1,0 +1,722 @@
+[
+	{
+		"model": "movies.movie",
+		"pk": 1,
+		"fields": {
+			"poster_path": "/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg",
+			"title": "2067",
+			"vote_average": 4.7,
+			"overview": "",
+			"release_date": "2020-10-01",
+			"movie_id": 528085
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 2,
+		"fields": {
+			"poster_path": "/j8MRnCjuN7kpM8w3B5hM5mrvTaE.jpg",
+			"title": "스폰지밥 무비: 핑핑이 구출 대작전",
+			"vote_average": 8.1,
+			"overview": "우리 핑핑이가 어디로 갔을까? 설마, 납치당한 건가? 사랑하는 반려 달팽이를 찾아 떠나는 스폰지밥. 뚱이도 함께 가야지. 비키니 시티를 벗어나 미지의 세계로, 출발이다!",
+			"release_date": "2020-08-14",
+			"movie_id": 400160
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 3,
+		"fields": {
+			"poster_path": "/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg",
+			"title": "하드 킬",
+			"vote_average": 5,
+			"overview": "",
+			"release_date": "2020-10-23",
+			"movie_id": 724989
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 4,
+		"fields": {
+			"poster_path": "/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+			"title": "마녀를 잡아라",
+			"vote_average": 6.9,
+			"overview": "마녀들로부터 발각되어 생쥐로 변해버린 소년이 과거 마녀전담반이었던 할머니와 함께 마녀들과 맞선다는 내용의 판타지 어드벤처",
+			"release_date": "2020-10-26",
+			"movie_id": 531219
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 5,
+		"fields": {
+			"poster_path": "/wLgHczwajb3QV2JBgsqNVjuHoJC.jpg",
+			"title": "그린랜드",
+			"vote_average": 7.1,
+			"overview": "혜성의 지구 충돌 속보를 지켜보던 존과 가족들. 미 항공우주국(NASA)의 예측과 달리 해상으로 떨어졌어야 할 파편은 캘리포니아를 비롯해 세계 대도시로 추락해 세계는 순식간에 혼돈에 빠진다. 지구의 3/4을 날려버릴 초대형 혜성 추락까지 남은 시간은 단 48시간. 존과 가족은 지구의 유일한 안전 대피소인 ‘그린란드’의 벙커로 향하는데... 인류의 마지막 카운트다운이 시작된다!",
+			"release_date": "2020-07-29",
+			"movie_id": 524047
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 6,
+		"fields": {
+			"poster_path": "/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg",
+			"title": "로그 시티",
+			"vote_average": 5.9,
+			"overview": "부패경찰과 마르세유의 조폭 사이의 문제로 위기의  경찰조직을 보호해야 한다.",
+			"release_date": "2020-10-30",
+			"movie_id": 671039
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 7,
+		"fields": {
+			"poster_path": "/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg",
+			"title": "웰컴 투 서든 데쓰",
+			"vote_average": 6.4,
+			"overview": "",
+			"release_date": "2020-09-29",
+			"movie_id": 741067
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 8,
+		"fields": {
+			"poster_path": "/zfdhsR3Y3xw42OHrMpi0oBw0Uk8.jpg",
+			"title": "원스 어폰 어 스노우맨",
+			"vote_average": 6.9,
+			"overview": "",
+			"release_date": "2020-10-23",
+			"movie_id": 741074
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 9,
+		"fields": {
+			"poster_path": "/szItf1XDOY6u0ZeaQFPc3bi1SL0.jpg",
+			"title": "애프터: 그 후",
+			"vote_average": 7.3,
+			"overview": "\"너만의 테사는 더 이상 없어!\"  첫사랑 하딘이 자신과의 연애를 내기에 걸었다는 비밀을 알게 된 '테사'  둘은 헤어지지만 서로의 살결과 숨결을 끊지 못하며 아슬아슬한 썸을 이어간다. 이후 대학 졸업을 앞둔 취준생 테사는 대형 출판사의 인턴십에 합격하고  거친 하딘과는 180도 다른 젠틀한 직장 남사친 '트레버'를 만나게 된다. \"테사의 두 번째 남자를 만났다\" 런던으로 떠나기 전에 테사를 향한 진심을 전하고 싶었던 '하딘' 테사의 용서를 기다리며 과거의 잘못을 하나씩 고쳐나간다.  워크숍 파티에서 취한 테사의 연락에 하딘은 기대 반, 걱정 반 마음으로 결국 테사의 호텔 룸에 찾아가고, 샤워실에서 그녀석 '트레버'와 마주치는데…",
+			"release_date": "2020-09-02",
+			"movie_id": 613504
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 10,
+		"fields": {
+			"poster_path": "/mQbxBKeRuAofS5p2w4mK7DqtS97.jpg",
+			"title": "뮬란",
+			"vote_average": 7.2,
+			"overview": "무예에 남다른 재능을 지닌 뮬란은 좋은 집안과 인연을 맺어 가문을 빛내길 바라는 부모님의 뜻에 따라 본연의 모습을 억누르고 성장한다. 어느 날, 북쪽 오랑캐들이 침입하자 황제는 징집령을 내리고 뮬란은 아픈 아버지를 대신해 가족들 몰래 전장에 나가기로 결심한다. 여자라는 게 발각되면 목숨을 잃을 수도 있는 상황 속에서 뮬란은 타고난 용기와 지혜로 역경을 이겨내며 전사로 성장한다. 마침내 잔인무도한 적장 보리 칸과 마녀 시아니앙을 마주하게 된 뮬란. 그녀는 위험에 빠진 동료와 가족을 구하고 진정한 전사로 거듭날 수 있을 것인가?",
+			"release_date": "2020-09-04",
+			"movie_id": 337401
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 11,
+		"fields": {
+			"poster_path": "/e98dJUitAoKLwmzjQ0Yxp1VQrnU.jpg",
+			"title": "컴 플레이",
+			"vote_average": 6.7,
+			"overview": "",
+			"release_date": "2020-10-28",
+			"movie_id": 571384
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 12,
+		"fields": {
+			"poster_path": "/bqZRy3tJjJIrA38FSdqJEufQ2Os.jpg",
+			"title": "뉴 뮤턴트",
+			"vote_average": 6.3,
+			"overview": "십대의 돌연변이 레인과 일리, 샘, 로베르토는 비밀 시설에 수용되어 심리 상태를 감시 받는다. 이들이 사회에는 물론 스스로에게도 위험한 존재라고 생각하는 닥터 레예스는 이들에게 돌연변이 능력을 통제하는 방법을 가르쳐주고자 애쓴다. 어느 날, 대재앙이 덮친 마을에서 혼자 살아남은 대니가 이곳에 들어오며 끔찍한 일들이 벌어지기 시작하고, 자신들의 힘을 두려워하고 다룰 줄 몰랐던 십대 돌연변이들은 믿기지 않는 경험을 하며 자신들의 능력을 각성하기 시작하는데…",
+			"release_date": "2020-08-26",
+			"movie_id": 340102
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 13,
+		"fields": {
+			"poster_path": "/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+			"title": "에놀라 홈즈",
+			"vote_average": 7.5,
+			"overview": "열여섯 생일을 맞은 셜록의 여동생, 에놀라 홈즈. 사라진 엄마를 찾아 런던으로 향한다. 명석한 두뇌의 대명사인 오빠까지 따돌리고, 위험에 빠진 귀족 청년의 미스터리와 엮이는데. 사건을 추적하며, 홈즈 가문답게 예리한 추리력이 폭발한다. 미스터리 가득한 이 모험, 무사히 마칠 수 있을까?",
+			"release_date": "2020-09-23",
+			"movie_id": 497582
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 14,
+		"fields": {
+			"poster_path": "/zG6QJjd5feBZBl7zeKHDDlgL8FY.jpg",
+			"title": "오버 더 문",
+			"vote_average": 7.6,
+			"overview": "믿는 사람에게만 펼쳐지는 세상 똑똑하고 호기심 넘치는 소녀 페이 페이, 엄마가 어린 시절 들려준 전설 속 달의 여신 항아 이야기를 늘 마음에 풀고 살아간다. 일찍 하늘나라로 간 엄마를 그리워하며 살아가던 페이 페이는 어느 날 항아의 전설이 지어낸 이야기일 뿐이라는 고모의 말에 울컥해, 항아의 존재를 증명하기 위해 달로 향하는 로켓을 만들기로 결심한다. 수많은 시행착오 끝에 로켓 만들기에 성공한 페이 페이, 예상치 못한 모험을 떠나게 된 소녀는 신기한 생명체로 가득한 기묘한 세계를 발견하게 되는데…",
+			"release_date": "2020-10-16",
+			"movie_id": 560050
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 15,
+		"fields": {
+			"poster_path": "/4m6w5gXggWfxeCZD81Pxb9B4hx5.jpg",
+			"title": "반도",
+			"vote_average": 7,
+			"overview": "전대미문의 재난 이후 4년이 흐른 대한민국은 버려진 땅이 되어버렸다. 사람들은 고립된 섬이 된 반도에 갇혔고 누구의 생사도 확인할 수 없는 상황에서 정석은 피할 수 없는 미션을 받고 한국 땅에 다시 발을 들인다. 정석은 미지의 세계인 그곳에서 예상치 못한 습격을 받고 일촉즉발의 순간 ‘반도’의 생존자들을 만나게 된다.",
+			"release_date": "2020-07-15",
+			"movie_id": 581392
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 16,
+		"fields": {
+			"poster_path": "/5RbyHIVydD3Krmec1LlUV7rRjet.jpg",
+			"title": "징글 쟁글: 저니의 크리스마스",
+			"vote_average": 7.4,
+			"overview": "화려하고 생기 넘치는 코블튼 마을을 배경으로, 전설적인 장난감 제작자 제로니커스 쟁글의 이야기를 보여준다. 상상 속에서나 볼 법한 그의 발명품들은 기발함과 경이로움으로 가득하다. 그런데 쟁글이 신뢰했던 수습생이 그가 가장 아끼는 장난감을 훔쳐 간다. 이제 희망은 쟁글 못지않게 영리하고 창의적인 손녀에게 달려있다. 그리고 오랫동안 잊고 있던 발명품에. 오랜 상처를 치유하고 내면의 마법을 다시 깨울 수 있을까?",
+			"release_date": "2020-11-06",
+			"movie_id": 622855
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 17,
+		"fields": {
+			"poster_path": "/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg",
+			"title": "브이에프더블유",
+			"vote_average": 5.2,
+			"overview": "옛 전우들이 모여 술을 마시고 대화를 나누는 VFW(해외참전용사) 모임이 있던 밤. 어린 소녀 하나가 훔친 마약을 들고 그 모임에 들이닥친다. 그 뒤를 이어 잔인한 폭력배들이 여자 아이를 추적하면서 그 모임은 소녀와 퇴역군인 모두를 위한 생존 오두막으로 바뀐다. 참전용사들은 마약에 찌든 폭력배들의 끊임없는 공격에 총력전을 펼치기 위해 모을 수 있는 무기를 전부 모아 들이고, 결국 전면전이 뒤따른다.",
+			"release_date": "2020-10-14",
+			"movie_id": 624779
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 18,
+		"fields": {
+			"poster_path": "/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg",
+			"title": "배트맨: 데스 인 더 패밀리",
+			"vote_average": 7.6,
+			"overview": "",
+			"release_date": "2020-10-13",
+			"movie_id": 618353
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 19,
+		"fields": {
+			"poster_path": "/m9ZDoCzSbQ7SAOz2tcb1rt6bGG2.jpg",
+			"title": "플레인 하이스트",
+			"vote_average": 5.9,
+			"overview": "마지막 게임에서의 거액의 빚을 갚기 위해 ‘다리우스’ 밑에서 일하게 된 전직 도박꾼 ‘잭’은 전세계 극악무도한 범죄자들이 모여 베팅을 벌이는 ‘머니 플레인’에 탑승해 현금 수백만 달러를 탈취하고 가상 화폐 10억 달러를 해킹하는 미션을 성공시켜야 한다. 하지만 다리우스는 잭을 함정에 빠뜨리고 잭은 플랜B를 가동해 되갚아주려 하는데…!",
+			"release_date": "2020-09-29",
+			"movie_id": 694919
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 20,
+		"fields": {
+			"poster_path": "/fJ0i5MKbBTKJGYY2uxsiUMdwMc6.jpg",
+			"title": "에이바",
+			"vote_average": 5.6,
+			"overview": "타깃 제거 100%, 실패 확률 0%  킬러 ‘에이바’(제시카 차스테인).  프랑스 최대의 사기범을 제거하는 작전에 투입된 그녀는 임무 중 조직의 금기를 깨트린다. 한편, 그 사실을 알게 된 새로운 보스 ‘사이먼’(콜린 파렐)은 그녀를 제거할 것을 명령하게 되는데… 죽거나, 죽이거나 타깃이 된 그녀, 살기 위한 킬링 액션이 시작된다!",
+			"release_date": "2020-07-02",
+			"movie_id": 539885
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 21,
+		"fields": {
+			"poster_path": "/m2FNRngyJMyxLatBMJR8pbeG2v.jpg",
+			"title": "극장판 귀멸의 칼날: 무한열차편",
+			"vote_average": 6,
+			"overview": "혈귀로 변해버린 여동생 ‘네즈코’를 인간으로 되돌릴 단서를 찾아 비밀조직 귀살대에 들어간 ‘탄지로.’ ‘젠이츠’, ‘이노스케’와 새로운 임무 수행을 위해 무한열차에 탑승 후 귀살대 최강 검사 염주 ‘렌고쿠’와 합류한다. 달리는 무한열차에서 승객들이 하나 둘 흔적 없이 사라지자 숨어있는 식인 혈귀의 존재를 직감하는 ‘렌고쿠’. 귀살대 ‘탄지로’ 일행과 최강 검사 염주 ‘렌고쿠’는 어둠 속을 달리는 무한열차에서 모두의 목숨을 구하기 위해 예측불가능한 능력을 가진 혈귀와 목숨을 건 혈전을 시작하는데…",
+			"release_date": "2020-10-16",
+			"movie_id": 635302
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 22,
+		"fields": {
+			"poster_path": "/6agKYU5IQFpuDyUYPu39w7UCRrJ.jpg",
+			"title": "보랏 속편",
+			"vote_average": 6.6,
+			"overview": "한때 영광스러운 국가였던 카자흐스탄의 이익을 위해 미국 정권에 엄청난 뇌물 전달하기",
+			"release_date": "2020-10-23",
+			"movie_id": 740985
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 23,
+		"fields": {
+			"poster_path": "/Amkk8KY5Vy81RDrVlDDhd2Ay9ho.jpg",
+			"title": "로그",
+			"vote_average": 5.8,
+			"overview": "대장 샘이 이끄는 용병팀 로그는 무장 단체 알샤바브에게 납치된 주지사의 딸을 구출하기 위해 남아프리카 공화국으로 파견된다. 가까스로 타깃 구출에 성공하지만 잔혹하고 무자비한 알샤바브의 추격은 계속되고, 치열한 전투 속 생사의 갈림길에 서게 된 로그 팀 앞에 치명적인 미지의 존재가 등장한다.",
+			"release_date": "2020-08-20",
+			"movie_id": 718444
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 24,
+		"fields": {
+			"poster_path": "/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg",
+			"title": "아메리칸 파이: 여자의 규칙",
+			"vote_average": 6.2,
+			"overview": "",
+			"release_date": "2020-10-06",
+			"movie_id": 660982
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 25,
+		"fields": {
+			"poster_path": "/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg",
+			"title": "위 베어 베어스: 더 무비",
+			"vote_average": 7.7,
+			"overview": "그리즐리, 팬더, 아이스 베어가 푸드 트럭을 얼마나 사랑하는지에 대한 바이럴 비디오가 퍼지게 되면서 생긴 사고로 대규모의 정전 사태가 발발한다. 이 사건은 국립 야생 동물 관리국 소속 트라우트 요원의 관심을 끌게 된다. 트라우트는 인간과 같은 생활 방식을 갖고 있는 곰들을 영원히 격리시킴으로써 자연의 질서를 회복하겠다고 선언한다. 정든 집에서 쫓겨 난 곰들은 캐나다에서 피난처를 찾는 과정에서 새로운 친구, 위험한 장애물, 거대한 파티로 가득 찬 여행을 떠난다. 이 위험천만한 여정은 그들이 처음 만나고 형제가 되었던 예전을 돌아보게 하는데...",
+			"release_date": "2020-06-30",
+			"movie_id": 677638
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 26,
+		"fields": {
+			"poster_path": "/mhDdx7o7hhrxrikq8aqPLLnS9w8.jpg",
+			"title": "아르테미스 파울",
+			"vote_average": 5.8,
+			"overview": "12살 천재 소년 아르테미스 파울은 유서 깊은 범죄 주모자 집안의 후예이다. 사라진 아버지를 찾으려 하던 중 숨어 있던 강력한 요정 종족이 그 실종 사건의 배후일 수 있다는 것을 알게 된다.",
+			"release_date": "2020-06-12",
+			"movie_id": 475430
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 27,
+		"fields": {
+			"poster_path": "/6ZzGWclamSIvJMs54sr1NYSmWL3.jpg",
+			"title": "런던 시계탑 밑에서 사랑을 찾을 확률",
+			"vote_average": 6.6,
+			"overview": "매번 실패하는 연애에 어느덧 연애지수 제로가 되어버린 ‘낸시’는 부모님 결혼기념일 파티에 가던 중  우연히 만난 ‘잭’에게 묘한 끌림을 느끼게 된다. 낸시는 얼떨결에 잭의 가짜 소개팅녀 행세를 하게 되고, 두 사람은 런던에서 생애 최고의 유쾌한 데이트를 즐긴다.  하지만 행복도 잠시, 낸시 앞에 나타난 옛 친구덕분에 거짓말로 시작된 데이트는 위기를 맞게 되는데...  올겨울, 누구나 꿈꾸는 솔직발랄 런던 로맨스가 온다!",
+			"release_date": "2015-05-29",
+			"movie_id": 332340
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 28,
+		"fields": {
+			"poster_path": "/vSfchsOaP6xFrLsG6hzXgc3woZ2.jpg",
+			"title": "헤븐퀘스트",
+			"vote_average": 6.5,
+			"overview": "아주 먼 옛날 위대한 에오스 제국은 어둠의 세력의 부활로 무너지게 되고 북왕국과 남왕국의 천 년 전쟁으로 대혼란에 처한다. 왕의 재판관 '반젤'과 그의 친구들, 여전사 '에즈라', 마법사 '엘더'로 구성된 다섯 명의 선택받은 자들은 평화를 지키기 위해 고대 기록의 예언에 따라 빛과 어둠이 존재하는 타락한 관문을 향해 목숨을 건 여정을 떠난다. 한편, 점점 세력을 키워온 어둠의 세력 '아몬'과의 피할 수 없는 전쟁을 앞둔 다섯 명의 선택받은 자들은 드디어 최후의 전쟁을 시작하는데...",
+			"release_date": "2020-07-13",
+			"movie_id": 634244
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 29,
+		"fields": {
+			"poster_path": "/2EjUq3eqvDKU4EXh482IQcttcx4.jpg",
+			"title": "바바 야가",
+			"vote_average": 6.5,
+			"overview": "젊은 가족이 시 외곽의 새 아파트로 이사하며 새로 태어난 아기의 보모를 고용한다.  보모가 집에 들어오면서 이상한 일이 벌어지자 아들 이고르가 부모에게 말하지만 부모는 그 말을 믿지 않는다. 어느 날 집에 돌아온 이고르는 보모와 아기가 사라지고 부모가 이상한 행동을 하며 아기가 있었다는 사실을 기억 못 한다는 사실을 깨닫는다.  친구와 함께 아기를 찾아 나선 이고르는 보모가 바바 야가로 알려진 고대 슬라브 악령이라는 것을 알게 되는데...",
+			"release_date": "2020-02-27",
+			"movie_id": 575088
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 30,
+		"fields": {
+			"poster_path": "/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg",
+			"title": "산타나",
+			"vote_average": 5.6,
+			"overview": "오래전 부모를 살해한 원수. 마약 조직 보스의 숨겨진 정체가 드디어 드러난다. 성격은 다르지만 목적은 같은 형제. 범죄수사국 요원과 장군이 목숨 건 복수를 시작한다.",
+			"release_date": "2020-08-28",
+			"movie_id": 734309
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 31,
+		"fields": {
+			"poster_path": "/vxJFueYtoDMK40ZwmyUPCiNaeVl.jpg",
+			"title": "어쌔신 프리스트 벡맨",
+			"vote_average": 5.7,
+			"overview": "존경 받는 신부 벡맨은 암살자였던 과거를 숨기고 사이비 교단에서 탈출한 타비타를 입양하여 건실하게 살고 있다. 어느날 사이비 교단의 습격으로 타비타는 납치되고 벡맨은 부상을 당한다. 분노한 벡맨은 다시 암살조직에 복귀해 총을 잡게 되고 교단이 고용한 킬러들과 목숨을 건 대결을 벌인다.",
+			"release_date": "2020-09-10",
+			"movie_id": 697064
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 32,
+		"fields": {
+			"poster_path": "/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg",
+			"title": "아카이브",
+			"vote_average": 5.8,
+			"overview": "2038년 미래 인공 지능을 인간보다 한 단계 더 발전 시키려는 과학자가 불의의 사고를 당한 아내를 죽음으로 부터 불러오는데...",
+			"release_date": "2020-08-13",
+			"movie_id": 606234
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 33,
+		"fields": {
+			"poster_path": "/k8Rp9g6kEmlNbNf6Y4fycDCz3uh.jpg",
+			"title": "벡키",
+			"vote_average": 6.4,
+			"overview": "아빠와 다툰 후 자신만의 공간에서 홀로 시간을 보내던 십 대 소녀 '벡키'.  같은 시간, 감옥을 탈출한 범죄자들이 무언가를 찾기 위해 벡키의 집으로 들이닥친다. 평소 벡키가 지니고 다니던 열쇠를 찾아, 벡키의 가족들을 위협하는 범죄자들. 그리고 이 사실을 전혀 모르고 있던 백키는 의문의 총소리를 시작으로 혼란에 휩싸이게 되는데...! \"난 너희들을 다치게 할 거야! 기대해도 좋아!\"",
+			"release_date": "2020-07-23",
+			"movie_id": 601844
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 34,
+		"fields": {
+			"poster_path": "/kXDm2b90sekbtX1DSBKPzgmFBJb.jpg",
+			"title": "인베이젼 2020",
+			"vote_average": 7,
+			"overview": "첫 우주 침공으로부터 3년이 지난 지구. 인류는 상처를 이겨내고 조금씩 평범한 일상으로 돌아가고 있다. 그러나 평화도 잠시, 다시 그들이 모습을 드러냈다. 물이 존재하는 그 어느 곳도 안전하지 않은 상황. 하지만 인류는 반드시 이겨낼 것이다!",
+			"release_date": "2020-01-01",
+			"movie_id": 514207
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 35,
+		"fields": {
+			"poster_path": "/anhvhTzdjzMLzGV8oTFNssvMTIw.jpg",
+			"title": "나쁜 녀석들: 포에버",
+			"vote_average": 7.3,
+			"overview": "마이애미 강력반의 베테랑 형사 ‘마이크’(윌 스미스)는 여전히 범죄자를 소탕하는 데 열성적이지만, 그의 파트너 ‘마커스’(마틴 로렌스)는 이제 일선에서 물러나 가족과 함께 시간을 보내고 싶어한다. 마커스의 은퇴를 만류하던 마이크가 정체를 알 수 없는 거대 조직의 위협을 받으며 일생일대의 위험에 빠지게 된다. 가족만큼 중요한 마이크를 위해 마커스가 합류하고, 우리의 ‘나쁜 녀석들’은 신식 무기와 기술을 장착한 루키팀 AMMO와 함께 힘을 합쳐 일생일대 마지막 미션을 수행하게 되는데…",
+			"release_date": "2020-01-15",
+			"movie_id": 38700
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 36,
+		"fields": {
+			"poster_path": "/fD6WrWTL2jzKyFE45jGOIuq5E7g.jpg",
+			"title": "킹 아더 카멜롯의 기사",
+			"vote_average": 6.1,
+			"overview": "전쟁에서 승리한 아더 왕은 결투자가 되어 은둔한다. 야욕을 가진 왕자는 귀네비어 왕비와 결혼하여 왕좌를 차지하는 음모를 꾸민다. 아더 왕은 빼앗긴 왕국을 되찾기 위해 원탁의 기사들을 소환해 기사도를 맹세하고 대관식 날에 카멜롯 성을 쳐들어가는데… 전설의 기사들이 귀환한다!",
+			"release_date": "2020-05-28",
+			"movie_id": 635237
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 37,
+		"fields": {
+			"poster_path": "/t28nWRyiwT2cI0KwXYLPwnNltUV.jpg",
+			"title": "히어로는 없다",
+			"vote_average": 6.2,
+			"overview": "히어로는 무슨. 하지만 범죄가 슈퍼히어로 스토리를 빼다 박았다면? 신참 형사가 사건 해결을 위해 공조 아닌 공조를 시작한다. 퍼즐 조각에 불과한 연쇄 살인. 그 큰 그림을 볼 수 있는 건 코믹스라면 꽉 잡은 만화 가게 주인뿐이니까.",
+			"release_date": "2020-08-28",
+			"movie_id": 438396
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 38,
+		"fields": {
+			"poster_path": "/xDZ0tHXxesM34GGLJxr3CCnwPHU.jpg",
+			"title": "프로젝트 파워",
+			"vote_average": 6.6,
+			"overview": "뉴올리언스에 퍼지기 시작한 의문의 약. 강해지고 싶다면 삼켜라. 5분간 엄청난 초능력이 주어진다. 주의사항은? 약을 먹기 전까진 어떤 초능력이 생길지 모른다는 것. 누군가는 총알도 뚫지 못하는 방탄 피부가 되고, 누군가는 투명 인간이 된다. 그리고 또 누군가는 치명적인 능력을 부여받는다. 하지만 가장 큰 문제는 이 약 때문에 범죄 도시로 변하고 있는 뉴올리언스. 이대로 두고 볼 수 없는 경찰 프랭크는 약의 출처를 뒤쫓는다. 마약상인 10대 소녀와 복수를 위해 비밀리에 움직이는 전직 군인과 함께. 이제 어떤 위험을 감수하더라도 그들을 막아야 한다. 파워를 삼켜서라도.",
+			"release_date": "2020-08-14",
+			"movie_id": 605116
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 39,
+		"fields": {
+			"poster_path": "/yhhJPePGHGtJ6LBVKCyfJg5EBnA.jpg",
+			"title": "택스 콜렉터",
+			"vote_average": 6,
+			"overview": "LA 지역 갱들을 관리하며 상납금을 수금하는 최고의 파트너 ‘크리퍼’와 ‘데이비드’. 세상 무서울 것 없는 이들 앞에 조직을 통째로 삼키려는 무법자 ‘코네호’가 나타난다. 지독하고 거칠게 살아남은 두 사람은 조직과 모든 것을 지키기 위해 무자비한 피의 전쟁을 시작하는데…",
+			"release_date": "2020-08-07",
+			"movie_id": 531499
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 40,
+		"fields": {
+			"poster_path": "/w6e0XZreiyW4mGlLRHEG8ipff7b.jpg",
+			"title": "배틀필드 2025",
+			"vote_average": 5.9,
+			"overview": "",
+			"release_date": "2020-07-07",
+			"movie_id": 722603
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 41,
+		"fields": {
+			"poster_path": "/n6hptKS7Y0ZjkYwbqKOK3jz9XAC.jpg",
+			"title": "피니와 퍼브: 캔디스 대 우주",
+			"vote_average": 7.4,
+			"overview": "",
+			"release_date": "2020-08-28",
+			"movie_id": 594328
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 42,
+		"fields": {
+			"poster_path": "/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg",
+			"title": "스펠",
+			"vote_average": 5.5,
+			"overview": "",
+			"release_date": "2020-10-30",
+			"movie_id": 621151
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 43,
+		"fields": {
+			"poster_path": "/q9KF4CXgK6imiN0Obvg8D7IDRVz.jpg",
+			"title": "트롤: 월드 투어",
+			"vote_average": 7.5,
+			"overview": "노래와 춤을 즐기며 평화로운 나날을 보내던 팝 트롤 파피(안나 켄드릭)와 브랜치(저스틴 팀버레이크) 그리고 친구들. 어느 날 파피는 자신들 외에도 서로 다른 외모와 노래를 가진 5개의 트롤 마을이 더 있다는 것을 알게 된다. 모두와 친구가 되어 신나게 지내고 싶은 파피와 달리 록 트롤 마을의 여왕 바브(레이첼 블룸)는 다른 트롤 마을들을 위협해오고 있다. 바브는 트롤 조상들이 만든 팝, 테크노, 클래식, 컨트리, 펑크, 록 여섯개의 현을 찾아 모든 음악을 통합해, 록을 제외한 음악들을 파괴하려는 위험한 계획을 세운 것. 이를 모르는 팝 트롤들은 다른 음악을 사랑하는 트롤들과도 친구가 될 수 있으리라 믿으며 그들과 어울리기 위한 여행을 떠나는데...",
+			"release_date": "2020-03-12",
+			"movie_id": 446893
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 44,
+		"fields": {
+			"poster_path": "/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg",
+			"title": "해피 할로윈, 스쿠비 두!",
+			"vote_average": 7.9,
+			"overview": "",
+			"release_date": "2020-10-06",
+			"movie_id": 721656
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 45,
+		"fields": {
+			"poster_path": "/sshtRdR9B31LAQbYjwljXGaJ9Kz.jpg",
+			"title": "버즈 오브 프레이: 할리 퀸의 황홀한 해방",
+			"vote_average": 7.2,
+			"overview": "오랜 연인이던 조커와 헤어진 할리 퀸은 처음 맞이한 해방에 황홀함을 느낀다. 하지만 조커라는 방패막이 사라지자 평생 처음 무방비 상태에 놓인 할리 퀸을 고담시에서 가장 비열한 범죄왕 로만 시오니스와 고담의 모든 갱들이 노린다. 통제 불능의 상태에서 카산드라라는 소매치기가 로만의 부하에게서 모든 권력과 고담시 지하 세계 전체의 지배권을 차지할 열쇠인 금융 정보가 암호화되어 있는 다이아몬드를 훔치면서 사건을 걷잡을 수 없이 급변한다. 로만 손에 죽을 위기에 처한 할리 퀸은 헌트리스, 블랙 카나리, 르네 몬토야와 새로운 팀을 결성해 로만에 맞서는데...",
+			"release_date": "2020-02-05",
+			"movie_id": 495764
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 46,
+		"fields": {
+			"poster_path": "/lVcwSnzhSMWYXUQzyMilCztSE6I.jpg",
+			"title": "겨울왕국 2",
+			"vote_average": 7.3,
+			"overview": "평화를 되찾은 아렌델 왕국에 새로운 위기가 찾아온다. 어느 날부턴가 의문의 목소리가 엘사를 부르고, 평화로운 아렌델 왕국을 위협한다. 트롤은 모든 것은 과거에서 시작되었음을 알려주며 엘사의 힘의 비밀과 진실을 찾아 떠나야한다고 조언한다. 위험에 빠진 아렌델 왕국을 구해야만 하는 엘사와 안나는 숨겨진 과거의 진실을 찾아 크리스토프, 올라프, 그리고 스벤과 함께 위험천만한 놀라운 모험을 떠나게 된다. 자신의 힘을 두려워했던 엘사는 이제 이 모험을 헤쳐나가기에 자신의 힘이 충분하다고 믿어야만 하는데...",
+			"release_date": "2019-11-20",
+			"movie_id": 330457
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 47,
+		"fields": {
+			"poster_path": "/tBi5xW9Rd0YoGB0aAggV0EN5LDP.jpg",
+			"title": "스푸트니크",
+			"vote_average": 6.4,
+			"overview": "1983년 우주궤도를 돌던 소련의 오르비타-4호가 원인불명의 사고로 불시착하고, 생존한 우주비행사 베시냐코프의 이상징후를 진단하기 위해 뇌전문의인 클리모바가 만국과학연구소로 향한다. 그녀는 악화와 회복을 반복하는 베시냐코프를 진찰하면서, 외계의 기생생물이 그의 몸 안으로 침투하여 불시착과 함께 지구로 왔다는 기밀을 알게 된다. 베시냐코프와 기생생물 사이의 공생관계를 파악한 클리모바는 그를 구하기 위해 또 다른 계획을 꾸민다.",
+			"release_date": "2020-09-10",
+			"movie_id": 594718
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 48,
+		"fields": {
+			"poster_path": "/frB57nMDmu4NnSzjmrq0lEx5iod.jpg",
+			"title": "루도 - 인생 게임",
+			"vote_average": 7.4,
+			"overview": "지우고 싶은 동영상부터 위험천만한 돈 가방까지. 인생을 바꾸려는 네 명의 플레이어가 운명의 게임에 얽혀든다. 판을 좌우하는 건 인생이란 주사위. 당신은 삶을 바꿀 용기가 있는가.",
+			"release_date": "2020-11-12",
+			"movie_id": 658412
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 49,
+		"fields": {
+			"poster_path": "/wrCwH6WOvXQvVuqcKNUrLDCDxdw.jpg",
+			"title": "조커",
+			"vote_average": 8.2,
+			"overview": "홀어머니와 사는 아서 플렉은 코미디언을 꿈꾸지만 그의 삶은 좌절과 절망으로 가득 차 있다. 광대 아르바이트는 그에게 모욕을 가져다주기 일쑤고, 긴장하면 웃음을 통제할 수 없는 신경병 증세는 그를 더욱 고립시킨다. 정부 예산 긴축으로 인해 정신과 약물을 지원하던 공공의료 서비스마저 없어져 버린 어느 날, 아서는 지하철에서 시비를 걸어온 증권사 직원들에게 얻어맞던 와중에 동료가 건네준 권총으로 그들을 쏴 버리고 만다. 군중들은 지배계급에 대한 저항의 아이콘이 된 그를 추종하기 시작하며 광대 마스크로 얼굴을 가리고 거리로 쏟아져 나오기 시작하는데...",
+			"release_date": "2019-10-02",
+			"movie_id": 475557
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 50,
+		"fields": {
+			"poster_path": "/8wBEye516IKul9sW7JKGcFXVGfV.jpg",
+			"title": "레이디와 트램프",
+			"vote_average": 7.3,
+			"overview": "부유한 가정에서 살고 있는 레이디(테사 톰슨)는 어느날 개 상인으로부터 자신의 집으로 도망친 트램프(저스틴 서룩스)를 만난다. 처음에는 낯선 그를 경계하지만 이후 안타까운 사연을 듣고 그를 잠시나마 숨겨준다. 그러나 레이디의 주인 부부인 짐 디어(토마스 만),달링(키어시 클레먼스)이 아기 때문에 며칠 동안 집을 배우고 집을 맡기 위해 새로 온 이모 사라(이베트 니콜 브라운)가 데려온 두 고양이로 인해 오해를 받고 집에서 쫓겨난다. 트램프가 위험한 상황에 처한 레이디를 구해준 이후 두 개는 급속도로 가까워진다. 이후 이 사실을 알게 된 부부가 극적으로 레이디를 찾는 데 성공하지만 트램프는 홀로 남게 된다. 여기에 계속해서 끈질기게 트램프를 잡으려는 개 상인의 이들의 뒤를 쫓기 시작한다.",
+			"release_date": "2019-11-12",
+			"movie_id": 512895
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 51,
+		"fields": {
+			"poster_path": "/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg",
+			"title": "치크 파이트",
+			"vote_average": 7.8,
+			"overview": "",
+			"release_date": "2020-11-13",
+			"movie_id": 682377
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 52,
+		"fields": {
+			"poster_path": "/pMXOlasWr1IzHGH8HWw1ZTXs6rQ.jpg",
+			"title": "수퍼 소닉",
+			"vote_average": 7.5,
+			"overview": "소리보다 빠른 초고속 고슴도치 히어로 '소닉'은 지구에 불시착한다. 그의 특별한 능력을 감지한 과학자 ‘닥터 로보트닉’은 세계 정복의 야욕을 채우려 하고, 경찰관 ‘톰’은 위험에 빠진 ‘소닉’을 돕기 위해 나서는데…! 과연, ‘소닉'은 천재 악당에 맞서 지구를 지킬 수 있을까?",
+			"release_date": "2020-02-12",
+			"movie_id": 454626
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 53,
+		"fields": {
+			"poster_path": "/5WXeYnezavNI6hXH74aQYv6yFzj.jpg",
+			"title": "영안실의 미스테리",
+			"vote_average": 6.5,
+			"overview": "샘은 어느 별난 노인이 운영하는 외딴 영안실을 찾아가 자신을 조수로 일하게 해달라고 부탁하는 특이한 젊은 여성이다. 노인과 간단한 인터뷰를 마친 샘은 노인에게 장의사로 영안실에서 일하면서 그가 겪은 가장 무서운 이야기를 해달라고 한다. 노인은 샘에게 1950년대부터 19880년대까지 불길한 비밀을 다룬 네 가지 이야기를 들려준다.",
+			"release_date": "2020-10-08",
+			"movie_id": 524216
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 54,
+		"fields": {
+			"poster_path": "/i4kPwXPlM1iy8Jf3S1uuLuwqQAV.jpg",
+			"title": "원 나이트 인 방콕",
+			"vote_average": 7.1,
+			"overview": "음주 운전자가 낸 교통사고로 죽임을 당하고 억울하게 누명까지 쓴 딸과 가족, 카이는 복수와 정의 실현을 위해 사고를 내고 사건의 조작에 연루된 변호사, 경찰, 도미닉과 그의 부모, 뒷수습을 한 일본인 등 7명을 찾아간다.",
+			"release_date": "2020-08-25",
+			"movie_id": 721452
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 55,
+		"fields": {
+			"poster_path": "/y56HkHAbSZQJjQaxlqCaRI3lIHu.jpg",
+			"title": "나의 히어로 아카데미아 더 무비: 히어로즈 라이징",
+			"vote_average": 8.5,
+			"overview": "눈이 계속 내리는 겨울 어느 밤, 히어로 사회를 파괴하려고 계획하는 시가라키 토무라가 인솔하는 빌런 연합과 그 움직임을 사전에 포착한 히어로들의 전투가 전개되는 가운데, 남모르게 조용히 꿈틀거리는 \"뭔가\"가 일어나고, 그 자리를 떠났다. 마침 이즈쿠 일행의 유에이 고교 히어로과 1학년 A반이 은퇴한 No.1 히어로 올마이트의 뒤를 이어 \"차세대 영웅 육성 프로젝트\"의 일환으로 학급 전원에서 기간 한정의 교외 히어로 활동을 위해 일본의 훨씬 남쪽에 위치한 외딴 섬 \"나부 섬\"을 찾았다. 얼마 전 큰 사건이 일어나지 않았던 평화로운 섬에서 이들은 주재 영웅으로서 섬사람들의 생활을 도우며 분주했고, 그러면서도 한가한 시간을 보내고 있었다. 그러나 그 정적을 부수듯이, 갑자기 빌런들이 나부 섬을 덮쳐, 차례차례로 섬의 시설을 파괴해 간다. 그들을 지휘하는 것은, \"나인\". 그날 밤, 눈을 뜬 \"뭔가\"그 자체였다. 이즈쿠와 바쿠고 등의 1학년 A반의 멤버는 힘을 모아 빌런에 맞선다! 과연 섬을 덮치는 나인의 목적이란!? 그리고 이즈쿠 일행의 1학년 A반의 \"뉴 히어로\"들은 이 가장 흉악한 빌런으로부터 섬의 사람들을 지킬 수 있을까!?",
+			"release_date": "2019-12-20",
+			"movie_id": 592350
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 56,
+		"fields": {
+			"poster_path": "/kmP6viwzcEkZeoi1LaVcQemcvZh.jpg",
+			"title": "어벤져스: 인피니티 워",
+			"vote_average": 8.3,
+			"overview": "타노스는 6개의 인피니티 스톤을 획득해 신으로 군림하려 한다. 그것은 곧 인류의 절반을 학살해 우주의 균형을 맞추겠다는 뜻. 타노스는 닥터 스트레인지가 소유한 타임 스톤, 비전의 이마에 박혀 있는 마인드 스톤을 차지하기 위해 지구를 침략한다. 아이언맨과 스파이더맨은 가디언즈 오브 갤럭시의 멤버들과 타노스를 상대한다. 지구에선 캡틴 아메리카, 완다, 블랙 위도우, 블랙 팬서 등이 비전을 지키기 위해 뭉친다.",
+			"release_date": "2018-04-25",
+			"movie_id": 299536
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 57,
+		"fields": {
+			"poster_path": "/xOmGTJtBgRVSAF4S5dZEUqHqyy5.jpg",
+			"title": "시크릿 소사이어티 오브 세컨드 본 로얄",
+			"vote_average": 7,
+			"overview": "왜? 동화책에는 장남과 장녀, 또는 외동아들과 외동딸 얘기만 있을까? 형, 언니가 왕이 되고 왕비가 되고 콩고물조차 얻어먹지 못해 서러운 둘째 아이들은 동화책에서까지 존재조차 완전히 지워지곤 한다. 왜냐면, 둘째 아이들은 특별한 능력을 지니고 태어나기 때문. 슈퍼히어로 못지 않은 능력으로 동화책 속 왕국을 보호하는 임무를 수행하기 때문에 그들의 존재를 그 누구도 알아서는 안되기 때문이다. 더이상 서럽지 않은 둘째 아이들의 특별한 이야기가 시작된다.",
+			"release_date": "2020-09-25",
+			"movie_id": 621870
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 58,
+		"fields": {
+			"poster_path": "/uvD7vPBIpzejysF9e6fQbT5n86O.jpg",
+			"title": "정도",
+			"vote_average": 6.8,
+			"overview": "도성의 무술 대회에 부족 대표로 나선 사생아 청년. 어리고 비천하다는 논란이 일지만, 실력으로 가벼이 누르고 출전 자격을 따낸다. 이제 다음 목표는 최종 승자가 되는 것. 그리하여 부족의 명예를 높이고 잃어버린 뿌리도 찾는 것이다.",
+			"release_date": "2020-07-21",
+			"movie_id": 611395
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 59,
+		"fields": {
+			"poster_path": "/gEIcPyNduE28kNTMlQ5QN1rbbt7.jpg",
+			"title": "워 위드 그랜파",
+			"vote_average": 6,
+			"overview": "할아버지 ‘에드’에게 방을 뺏겨 다락방 신세가 된 손자 ‘피터’.  방을 되찾기 위해 할아버지를 골탕 먹이려 하지만 호락호락하지 않다. 계속되는 ‘피터’의 도발에 ‘에드’의 반격이 시작되고,  방을 사수하기 위한 소리 없는 전쟁이 시작되는데…!",
+			"release_date": "2020-08-27",
+			"movie_id": 425001
+		}
+	},
+	{
+		"model": "movies.movie",
+		"pk": 60,
+		"fields": {
+			"poster_path": "/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+			"title": "그레이하운드",
+			"vote_average": 7.5,
+			"overview": "1942년 북대서양. 2개월 전 함장이 된 사령관 어니스트 크라우스 중령(톰 행크스)은 처음으로 플레처급 구축함 그레이하운드의 함장으로서 영국으로 향하는 영국으로 향하는 물자를 실은 연합군 수송선단의 호위를 맡게 된다. 출항 전에 애인에게 청혼했지만, 그의 애인은 전시이고 앞으로 어떻게 될지 모르니 아직은 받아들일 수 없다며 고사한다. 선단이 출항하고 얼마 지나지 않아 대잠초계에 나섰던 PBY 카탈리나 수상기가 항속거리 문제로 행운을 빈다면서 돌아간다. 곧이어 기다렸다는 듯이 독일군 U-보트들의 습격이 시작된다. 이틀에 걸쳐 울프팩 전술로 공격하는 네 대의 U-보트를 상대하며 쉴세 없는 추격과 해전이 펼쳐지는데...",
+			"release_date": "2020-07-10",
+			"movie_id": 516486
+		}
+	}
+]
